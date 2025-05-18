@@ -123,7 +123,7 @@ Chat Log Summary:
 - Top keywords: python, data, ai, libraries, development
 🖼️ Screenshots
 1. Terminal Output
-![Terminal Output](screenshots/terminal_output.png)
+![Terminal Output](Screenshot 2025-05-18 110853.png)
 
 📄 License
 This project is licensed under the MIT License.
