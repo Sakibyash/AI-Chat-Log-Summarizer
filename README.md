@@ -40,6 +40,8 @@ Bonus capabilities include batch processing and keyword extraction using TF-IDF 
 
 ## 📁 Project Structure
 
+```plaintext
+
 AI-Chat-Log-Summarizer/
 ├── src/
 │ ├── init.py
@@ -61,7 +63,7 @@ Copy
 Edit
 
 ---
-
+```
 ## ⚙️ Installation
 
 ### Prerequisites
