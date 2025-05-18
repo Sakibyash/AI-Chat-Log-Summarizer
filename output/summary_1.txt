@@ -1,0 +1,6 @@
+Chat Log Summary:
+- Total exchanges: 6
+- User messages: 3
+- AI messages: 3
+- Main topics discussed: ai, data, learning, machine, systems
+- Top keywords: ai, data, learning, machine, systems
