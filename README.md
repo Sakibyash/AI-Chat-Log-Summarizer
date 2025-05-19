@@ -1,6 +1,5 @@
 # AI Chat Log Summarizer
 
-![Project Banner](Screenshot 2025-05-18 110853.png)
 
 The **AI Chat Log Summarizer** is a Python-based tool designed to parse, analyze, and summarize AI chat logs from `.txt` files. Built with robust text-processing techniques like TF-IDF and frequency-based keyword extraction, it efficiently delivers concise summaries and insightful statistics from user-AI conversations.
 
@@ -126,7 +125,6 @@ Chat Log Summary:
 🖼️ Screenshots
 1. Terminal Output
 
-![Terminal Output](Screenshot 2025-05-18 110853.png)
 
 📄 License
 This project is licensed under the MIT License.
